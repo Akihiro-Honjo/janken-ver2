@@ -387,6 +387,7 @@ $('.j_choice5').on('click', function() {{
           // });
           // $("#your_name").html(yourName);
 
+          
     //    結果発表
     // ボタンクリック時
     $(".btn_result").click(function(e){
@@ -564,6 +565,7 @@ btn.addEventListener('click', function(){
             $("#r_result").text(rScore + "点")
           } else if(rScore === 3) {
             $("#r_result").text(rScore + "点")
+            console.log(sScore)
           } else if(rScore ===2){
             $("#r_result").text(rScore + "点")
           } else if(rScore ===1){
