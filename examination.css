@@ -86,15 +86,13 @@ table{
   height: 100px;
 }
 
-.graph {
+/* 
+#graph_area {
   width: 600px;
   height: 600px;
+}
+.graph-box {
   display: flex;
-  align-items: center;
   justify-content: center;
-  background-color: #CFC46B;
-}
-
-#canvas_pentagon {
-  background-color: #CAEDEB;
-}
+  align-items: center;
+} */
